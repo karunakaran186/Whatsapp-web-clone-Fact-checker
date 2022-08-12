@@ -1,4 +1,4 @@
-# Fake-News-Detection-Whatsapp-Bot
+# Whatsapp - clone - Fake news and Fake information - Detection app
 
 “Fake news” is a term that has come to mean different things to different people. At its core, we are defining
 According to 30seconds.org:
